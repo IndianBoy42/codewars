@@ -1,0 +1,13 @@
+pub mod sq_in_rect;
+pub mod row_sum_odd_numbers;
+pub mod duplicate_encode;
+pub mod play_pass;
+pub mod order;
+pub mod num_as_roman;
+pub mod who_is_next;
+pub mod encrypt_this;
+pub mod range_extraction;
+pub mod decompose;
+pub mod rgb_to_hex;
+pub mod integer_partitions;
+pub mod magnet_particules;
